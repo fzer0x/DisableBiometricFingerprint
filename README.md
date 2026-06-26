@@ -1,6 +1,8 @@
-# Disable Fingerprint Magisk Module
+# Disable Fingerprint [Magisk Module]
 
 This module is designed to fix high CPU usage by repeatedly trying to contact a non-functional Fingerprint HAL for OnePlus Nord CE 5G [ROM] [16] [UNOFFICIAL GSI build] LineageOS-23 for ebba @xda.
+
+https://xdaforums.com/t/rom-16-unofficial-gsi-build-lineageos-23-for-ebba.4769184/
 
 ## What it does:
 1. **Masks Permission XMLs**: Replaces `android.hardware.fingerprint.xml` and `android.hardware.biometrics.fingerprint.xml` with empty files in both `/system` and `/vendor`. This tells Android that the device does not have a fingerprint sensor.
