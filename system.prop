@@ -1,0 +1,6 @@
+# Disable Fingerprint feature
+config.disable_fingerprint=true
+ro.fingerprint.disable=1
+persist.sys.fp.vendor=none
+ro.hardware.fingerprint=none
+ro.hardware.biometrics.fingerprint=none

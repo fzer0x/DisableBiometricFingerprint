@@ -1,0 +1,6 @@
+id=disable_fingerprint
+name=Disable Fingerprint
+version=v1.1
+versionCode=2
+author=fzer0x
+description=Disables the fingerprint sensor and its services on OnePlus Nord CE 5G [ROM] [16] [UNOFFICIAL GSI build] LineageOS-23 for ebba @xda for prevent high CPU usage by checking 100 times per second if biometric fingerprint available.
